@@ -1,0 +1,30 @@
+* {
+    font-family: Roboto, sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.section-one, .section-two, .section-three, .section-four {
+    height: 400px;
+}
+
+.section-one{
+    background-color: #1f2937;
+}
+
+.button{
+    background-color: #3882f6;
+    border-radius: 6px; 
+}
+
+.section-two {
+
+}
+
+.section-three{
+    background-color: #E5E7EB;
+}
+
+.section-four{
+
+}
